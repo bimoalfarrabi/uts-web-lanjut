@@ -21,6 +21,8 @@ return new class extends Migration
             $table->integer('stok');
             $table->string('image');
             $table->text('deskripsi');
+            $table->text('review');
+            $table->string('nama_review');
             $table->timestamps();
         });
     }

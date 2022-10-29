@@ -16,6 +16,8 @@ class Barang extends Model
         'genre',
         "stok",
         "image",
-        "deksripsi"
+        "deksripsi",
+        "review",
+        "nama_review"
     ];
 }

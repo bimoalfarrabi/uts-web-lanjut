@@ -13,4 +13,15 @@
             <img src="{{ asset('storage/'. $review->image) }}" alt="">
         </div>
     </div>
+    <div class="card" style="margin-top: 75px">
+        <div class="card-header">
+          Review
+        </div>
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <p>"{{ $review->review }}"</p>
+            <footer class="blockquote-footer">User {{ $review->nama_review }}</footer>
+          </blockquote>
+        </div>
+      </div>
 @endsection
