@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(51,51,102,0)"/>
+<g transform="matrix(3.8206 0 0 3.8206 489.0368 481.4483)" id="837024">
+<g style="" vector-effect="non-scaling-stroke">
+		<g transform="matrix(1 0 0 1 0 0)">
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" x="-128" y="-128" rx="0" ry="0" width="256" height="256"/>
+</g>
+		<g transform="matrix(1 0 0 1 40 -20)">
+<line style="stroke: rgb(255,255,255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" x1="-16" y1="0" x2="16" y2="0"/>
+</g>
+		<g transform="matrix(1 0 0 1 -40 -20)">
+<line style="stroke: rgb(255,255,255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" x1="-16" y1="0" x2="16" y2="0"/>
+</g>
+		<g transform="matrix(1 0 0 1 -40 -20)">
+<line style="stroke: rgb(255,255,255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" x1="0" y1="-16" x2="0" y2="16"/>
+</g>
+		<g transform="matrix(1 0 0 1 -8.0206 7.8712)">
+<path style="stroke: rgb(255,255,255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-119.9794, -135.8712)" d="M 172 55.7 L 84 56 A 52.1 52.1 0 0 0 32.8 99 h 0 L 16.4 183.1 a 28 28 0 0 0 47.4 24.7 h 0 L 107 160 l 65 -0.3 a 52 52 0 1 0 0 -104 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1 0 0 1 66.5206 29.3712)">
+<path style="stroke: rgb(255,255,255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-194.5206, -157.3712)" d="M 223.2 98.7 l 16.4 84.4 a 28 28 0 0 1 -47.4 24.7 h 0 l -43.2 -48" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</svg>

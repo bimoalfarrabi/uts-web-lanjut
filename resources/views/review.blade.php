@@ -10,7 +10,7 @@
             <p><b>Rp. {{ number_format($review->harga, 2, ',', '.') }}</b></p>
         </div>
         <div class="col">
-            <img src="{{ asset('storage/'. $review->image) }}" alt="">
+            <img src="{{ asset('images/'. $review->image) }}" alt="">
         </div>
     </div>
     <div class="card" style="margin-top: 75px">
